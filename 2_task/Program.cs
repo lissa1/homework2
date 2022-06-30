@@ -11,5 +11,5 @@ else
     {
         n = n / 10;
     }
-    Console.Write(n % 10);
+    Console.Write("третья цифра заданного числа равна " + n % 10);
 }
